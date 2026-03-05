@@ -1,6 +1,6 @@
 # Hi 👋 I'm Aboubaker Guebrili
 
-🎓 4th Year Student in Industrial Computer Electronics  
+🎓 5th Year Student in Industrial Computer Electronics  
 📍 Algeria  
 💡 Passionate about Embedded Systems, IoT, and Software Development  
 
