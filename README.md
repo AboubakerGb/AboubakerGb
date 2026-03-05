@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋 I'm Aboubaker Guebrili
 
-<!--
-**AboubakerGb/AboubakerGb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year Student in Industrial Computer Electronics  
+📍 Algeria  
+💡 Passionate about Embedded Systems, IoT, and Software Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am an engineering student passionate about building real-world technology solutions.
+
+My interests include:
+
+- Embedded Systems
+- IoT Systems
+- Automation
+- AI Applications
+- Software Development
+
+I enjoy combining **hardware and software** to create useful systems such as dashboards, tracking systems, and smart devices.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+- Python
+- C++
+- Dart
+- SQL
+
+### Embedded Systems
+- Arduino
+- Raspberry Pi
+- CAN Bus Communication
+- Sensors Integration
+
+### Software Development
+- Qt (Python / C++)
+- Flutter
+- Firebase
+- Desktop Applications
+
+### Tools
+- Git & GitHub
+- Linux
+- VS Code
+
+---
+
+## 📊 Current Projects
+
+🌱 **Hydroponics Smart System (Final Year Project)**  
+- Sensor monitoring
+- Raspberry Pi control
+- Data visualization dashboard
+
+📦 **Inventory Management Desktop App**  
+- Built with Python
+- Modern UI using CustomTkinter
+- Stock management and sales tracking
+
+📱 **Food Ordering App**
+- Flutter + Firebase
+- Python dashboard for restaurant management
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AboubakerGb&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AboubakerGb&layout=compact&theme=tokyonight)
+
+---
+
+## 🌍 Connect With Me
+
+- Instagram: @s1k.bouba
+- Email: aboubakerguebrili@gmail.com
+
+---
+
+⭐️ From [AboubakerGb](https://github.com/AboubakerGb)
