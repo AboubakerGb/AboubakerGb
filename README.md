@@ -65,15 +65,6 @@ I enjoy combining **hardware and software** to create useful systems such as das
 - Flutter + Firebase
 - Python dashboard for restaurant management
 
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AboubakerGb&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AboubakerGb&layout=compact&theme=tokyonight)
-
----
 
 ## 🌍 Connect With Me
 
